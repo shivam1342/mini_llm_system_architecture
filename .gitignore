@@ -1,0 +1,15 @@
+# Only ignore virtual environments, env files, and docs
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Documentation folder
+docs/
